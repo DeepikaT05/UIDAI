@@ -33,42 +33,42 @@ Initial enrolment coverage is reaching maturity. The primary operational priorit
 ## III. DATA-DRIVEN INSIGHTS & EVIDENCE (HERO CHARTS)
 
 ### 📊 1. Enrolment Saturation
-![Enrolment Saturation Map](/home/bishnups/Downloads/AADHAR/UIDAI_HACKATHON/outputs/charts/enrolment_saturation_states.png)
+![Enrolment Saturation Map](outputs/charts/enrolment_saturation_states.png)
 **What:** State-wise analysis of enrolment growth rates showing plateauing trends.
 **Why it matters:** Confirms that the "expansion phase" is ending and resource focus must pivot to update services and lifecycle maintenance.
 
 ---
 
 ### 📊 2. Child Inclusion Gap
-![Child Inclusion Gap](/home/bishnups/Downloads/AADHAR/UIDAI_HACKATHON/outputs/charts/enrolment_child_inclusion_gap.png)
+![Child Inclusion Gap](outputs/charts/enrolment_child_inclusion_gap.png)
 **What:** Discrepancy between 0-5 age group enrolments and projected birth rate shares.
 **Why it matters:** Identifies exactly where hospital-based enrolment drives are needed most to close the final inclusion gaps.
 
 ---
 
 ### 📊 3. Aadhaar: The Living System Funnel
-![Lifecycle Stress Funnel](/home/bishnups/Downloads/AADHAR/UIDAI_HACKATHON/outputs/charts/combined_living_system.png)
+![Lifecycle Stress Funnel](outputs/charts/combined_living_system.png)
 **What:** Aggregated view of enrolment vs. demographic and biometric updates over time.
 **Why it matters:** Proves that Aadhaar is not a one-time event; the recurring update load is the new operational reality.
 
 ---
 
 ### 📊 4. Migration Signals & Capacity Planning
-![Migration Signal](/home/bishnups/Downloads/AADHAR/UIDAI_HACKATHON/outputs/charts/demographic_migration_signal.png)
+![Migration Signal](outputs/charts/demographic_migration_signal.png)
 **What:** Intensity of adult demographic updates in economic hubs vs. source states.
 **Why it matters:** Acts as a proxy for citizen mobility, allowing UIDAI to deploy temporary "Update Hubs" in industrial corridors.
 
 ---
 
 ### 📊 5. Future Biometric Demand Curve
-![Future Biometric Demand Curve](/home/bishnups/Downloads/AADHAR/UIDAI_HACKATHON/outputs/charts/biometric_future_demand.png)
+![Future Biometric Demand Curve](outputs/charts/biometric_future_demand.png)
 **What:** A 5-10 year demand projection derived from current child enrolments (0-17).
 **Why it matters:** Provides the data foundation for long-term biometric kit procurement and infrastructure readiness.
 
 ---
 
 ### 📊 6. National Aadhaar Lifecycle Stress Index (NALSI)
-![Priority Index](/home/bishnups/Downloads/AADHAR/UIDAI_HACKATHON/outputs/charts/combined_priority_index.png)
+![Priority Index](outputs/charts/combined_priority_index.png)
 **What:** A composite ranking of states based on current load, intensity, and future pipeline.
 **Why it matters:** Enables objective, data-driven decision-making for national resource allocation and budget planning.
 

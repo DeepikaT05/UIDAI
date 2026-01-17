@@ -1,0 +1,14 @@
+# Exclude large data files
+data/
+outputs/summary_tables/*.csv
+outputs/charts/*.png
+
+# Python environment
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Local files
+.DS_Store
+*.out.ipynb

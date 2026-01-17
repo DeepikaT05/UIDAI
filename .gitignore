@@ -1,7 +1,25 @@
 # Exclude large data files
 data/
 outputs/summary_tables/*.csv
+
+# Allow only Hero Charts for GitHub visibility
+outputs/charts/*
+!outputs/charts/enrolment_saturation_states.png
+!outputs/charts/enrolment_child_inclusion_gap.png
+!outputs/charts/combined_living_system.png
+!outputs/charts/demographic_migration_signal.png
+!outputs/charts/biometric_future_demand.png
+!outputs/charts/combined_priority_index.png
+
+# But actually, let's just ignore everything else in charts if you want to be safe, 
+# or just allow these 6. I will allow these 6.
 outputs/charts/*.png
+!outputs/charts/enrolment_saturation_states.png
+!outputs/charts/enrolment_child_inclusion_gap.png
+!outputs/charts/combined_living_system.png
+!outputs/charts/demographic_migration_signal.png
+!outputs/charts/biometric_future_demand.png
+!outputs/charts/combined_priority_index.png
 
 # Python environment
 venv/
